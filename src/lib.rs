@@ -1,1 +1,1 @@
-pub mod ch5;
+pub mod problems;
